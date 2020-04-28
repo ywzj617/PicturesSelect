@@ -1,0 +1,12 @@
+.warp {
+  display: flex;
+}
+.check {
+  position: relative;
+  margin: 5px;
+}
+.check input {
+  position: absolute;
+  left: 3px;
+  top: 3px;
+}
